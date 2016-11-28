@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repertorio>
+	<libros>
+		<libro>
+			<categoria>Aventuras</categoria>
+			<titulo>Don Quijote de la Mancha</titulo>
+			<autor>Miguel de Cervantes</autor>
+			<anno-pub>1987</anno-pub>
+			<isbn>84-568-94-3</isbn>
+			<foto>GHS03</foto>
+		</libro>
+		<libro>
+			<categoria>Clásico</categoria>
+			<titulo>La Galatea</titulo>
+			<autor>Miguel de Cervantes</autor>
+			<anno-pub>1989</anno-pub>
+			<isbn>84-568-9424</isbn>
+			<foto>GHS05</foto>
+		</libro>
+		<libro>
+			<categoria>Clásico</categoria>
+			<titulo>La Celestina</titulo>
+			<autor>Fernando de Rojas</autor>
+			<anno-pub>1998</anno-pub>
+			<isbn>84-568-95-12</isbn>
+			<foto>GHS07</foto>
+		</libro>
+		<libro>
+			<categoria>Aventuras</categoria>
+			<titulo>Sherlock Holmes</titulo>
+			<autor>Miguel de Cervantes</autor>
+			<anno-pub>1987</anno-pub>
+			<isbn>84-568-94-3</isbn>
+			<foto>GHS02</foto>
+		</libro>
+		<libro>
+			<categoria>Clásico</categoria>
+			<titulo>La Ilíada</titulo>
+			<autor>Miguel de Cervantes</autor>
+			<anno-pub>1989</anno-pub>
+			<isbn>84-568-9424</isbn>
+			<foto>GHS04</foto>
+		</libro>
+		<libro>
+			<categoria>Filosofía</categoria>
+			<titulo>El mundo de Sofía</titulo>
+			<autor>Fernando de Rojas</autor>
+			<anno-pub>1998</anno-pub>
+			<isbn>84-568-95-12</isbn>
+			<foto>GHS06</foto>
+		</libro>
+	</libros>
+</repertorio>
