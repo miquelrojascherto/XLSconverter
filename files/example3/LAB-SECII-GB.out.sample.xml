@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<families xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"
+	xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/">
+	<family>
+		<Table aid5:tablestyle="qcaTable" xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"
+			aid:table="table" aid:trows="3" aid:tcols="12">
+			<Celda aid:pstyle="head_cell" aid5:cellstyle="head_cell"
+				aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="1"
+				aid:ccolwidth="37.00885826771655">Acronym</Celda>
+			<Celda aid:pstyle="head_cell" aid5:cellstyle="head_cell"
+				aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="1"
+				aid:ccolwidth="129.82677165354335">Product</Celda>
+			<Celda aid:pstyle="head_cell" aid5:cellstyle="head_cell"
+				aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="1"
+				aid:ccolwidth="70.015748031496">Wavelength (nm)</Celda>
+			<Celda aid:pstyle="head_cell" aid5:cellstyle="head_cell"
+				aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="1"
+				aid:ccolwidth="60.661417322834666">Ratio</Celda>
+			<Celda aid:pstyle="head_cell" aid5:cellstyle="head_cell"
+				aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="1"
+				aid:ccolwidth="44.22047244094489">Linearity</Celda>
+			<Celda aid:pstyle="head_cell" aid5:cellstyle="head_cell"
+				aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="1"
+				aid:ccolwidth="31.18110236220474">Units</Celda>
+			<Celda aid:pstyle="head_cell" aid5:cellstyle="head_cell"
+				aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="6"
+				aid:ccolwidth="150.349">Samples</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="log_cell" aid:table="cell"
+				aid:crows="2" aid:ccols="1">ACP</Celda>
+			<Celda aid:pstyle="prod_par" aid5:cellstyle="prod_cell"
+				aid:table="cell" aid:crows="1" aid:ccols="5">ACID PHOSPHATASE</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="log_cell" aid:table="cell"
+				aid:crows="2" aid:ccols="1" aid:ccolwidth="25.058267716535436">SE</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="log_cell" aid:table="cell"
+				aid:crows="2" aid:ccols="1" aid:ccolwidth="25.058267716535436">PL</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="log_cell" aid:table="cell"
+				aid:crows="2" aid:ccols="1" aid:ccolwidth="25.058267716535436"></Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="log_cell" aid:table="cell"
+				aid:crows="2" aid:ccols="1" aid:ccolwidth="25.058267716535436"></Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="log_cell" aid:table="cell"
+				aid:crows="2" aid:ccols="1" aid:ccolwidth="25.058267716535436"></Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="log_cell" aid:table="cell"
+				aid:crows="2" aid:ccols="1" aid:ccolwidth="25.058267716535436"></Celda>
+			<Celda aid:pstyle="tec_par" aid5:cellstyle="refF_cell"
+				aid:table="cell" aid:crows="1" aid:ccols="1">Kinetics / Cinétique</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="refF_cell" aid:table="cell"
+				aid:crows="1" aid:ccols="1">405</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="refF_cell" aid:table="cell"
+				aid:crows="1" aid:ccols="1">RA+RB+RC+RD</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="refF_cell" aid:table="cell"
+				aid:crows="1" aid:ccols="1">75</Celda>
+			<Celda aid:pstyle="comp" aid5:cellstyle="refF_cell" aid:table="cell"
+				aid:crows="1" aid:ccols="1">U/mL</Celda>
+		</Table>
+	</family>
+</families>
