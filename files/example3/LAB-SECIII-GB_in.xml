@@ -1,0 +1,21 @@
+﻿<FAMILIES>
+  <FAMILIA>
+	  <NOM_FAMILIA>ENDOSPORE STAINING</NOM_FAMILIA>
+	  <REACTIUS>
+		<REACTIU>
+			<NOM_REACTIU>MALACHITE GREEN</NOM_REACTIU>
+			<Class>8</Class>
+			<Packing_group>III</Packing_group>
+			<UN>1824</UN>
+			<PictogramaCLP1>GHS07</PictogramaCLP1>
+			<PictogramaCLP2 />
+			<PictogramaCLP3 />
+			<PictogramaCLP4 />
+			<FrasesH>H302,H315,H319</FrasesH>
+			<FrasesP>P264,P301+P312,P302+P352,P305+P351+P338</FrasesP>
+			<Warning />
+			<Content>disoduim tartrate</Content>
+		</REACTIU>
+	  </REACTIUS>
+  </FAMILIA>
+</FAMILIES>

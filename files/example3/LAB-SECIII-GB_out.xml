@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<families xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/">    
+   <family>
+      <Table aid5:tablestyle="enzymTable" aid:table="table" aid:trows="1" aid:tcols="1">
+         <Celda aid:pstyle="nfami" aid5:cellstyle="fami_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="523.3">ENZYME</Celda>
+      </Table>       
+      <Table aid5:tablestyle="qcaTable" aid:table="table" aid:trows="7" aid:tcols="8">
+         <Celda aid:pstyle="prod_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="2" aid:ccols="4">ACID PHOSPHATASE</Celda>
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.692913385826785">Class</Celda>
+         <Celda aid:pstyle="cont_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="206.2204724409449">H302,H315,H319</Celda>
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="22.677165354330782">UN</Celda>
+         <Celda aid:pstyle="cont_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="57.13484251950399">aaaa</Celda>
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.692913385826785">Packing group</Celda>
+         <Celda aid:pstyle="cont_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="3">H302</Celda>
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="imagLeft_cell" aid:table="cell" aid:crows="4" aid:ccols="1" aid:ccolwidth="43.953740157480325" />
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="imag_cell" aid:table="cell" aid:crows="4" aid:ccols="1" aid:ccolwidth="44.64566929133858" />
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="imag_cell" aid:table="cell" aid:crows="4" aid:ccols="1" aid:ccolwidth="43.93700787401575" />
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="imag_cell" aid:table="cell" aid:crows="4" aid:ccols="1" aid:ccolwidth="47.480314960629926" />
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.692913385826785">PhrasesH</Celda>
+         <Celda aid:pstyle="cont_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="3">H302</Celda>
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.692913385826785">PhrasesP</Celda>
+         <Celda aid:pstyle="cont_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="3">H302</Celda>
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.692913385826785">Warming</Celda>
+         <Celda aid:pstyle="cont_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="3">H302</Celda>
+         <Celda aid:pstyle="tit_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.692913385826785">Content</Celda>
+         <Celda aid:pstyle="cont_par" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="3">H302</Celda>
+         <Celda aid:pstyle="ref_cell" aid5:cellstyle="ref_cell" aid:table="cell" aid:crows="1" aid:ccols="8" />
+      </Table>
+   </family>
+</families>
