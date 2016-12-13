@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+	<employee>
+		<name>Miquel Rojas Chertó</name>
+		<job>Export Manager</job>
+		<company>MRC</company>
+		<email>info@miquelrojascherto.com</email>
+		<homepage>www.miquelrojascherto.com</homepage>
+		<addressStreet>Avda. Sant Jaume 41, ATIC-2</addressStreet>
+		<addressCity>Amposta</addressCity>
+		<addressPostCode>43870</addressPostCode>
+		<phone>+34 977702159</phone>
+		<mobile>+34 649378503</mobile>
+	</employee>
+</employees>
