@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+	<employee>
+		<module>
+			<name>name</name>
+			<job>job</job>
+		</module>
+		<module>
+			<addressStreet>addressStreet</addressStreet>
+			<addressCity>addressCity</addressCity>
+			<addressPostCode>addressPostCode</addressPostCode>
+			<phone>phone</phone>
+			<mobile>mobile</mobile>
+			<email>email</email>
+			<homepage>homepage</homepage>
+		</module>
+		<module>
+			<company>company</company>
+		</module>
+	</employee>
+</employees>
