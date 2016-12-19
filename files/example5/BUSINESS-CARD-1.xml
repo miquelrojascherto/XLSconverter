@@ -1,5 +1,5 @@
-<!-- XML originari del bank de dades -->
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- XML originari del bank de dades -->
 <employees>
 	<employee>
 		<name>Miquel Rojas Chertó</name>

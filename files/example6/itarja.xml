@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<module>
+			<name>Miquel Rojas Chertó</name>
+			<job>Export Manager</job>
+		</module>
+		<module>
+			<addressStreet>Avda. Sant Jaume 41, ATIC-2</addressStreet>
+			<addressCity>Amposta</addressCity>
+			<addressPostCode>43870</addressPostCode>
+			<phone>+34 977702159</phone>
+			<mobile>+34 649378503</mobile>
+			<email>info@miquelrojascherto.com</email>
+			<homepage>www.miquelrojascherto.com</homepage>
+		</module>
+		<module>
+			<company>MRC</company>
+		</module>
+	</employee>
+	<employee>
+		<module>
+			<name>Joan Lluís Guerrero Torta</name>
+			<job>Data Analyst</job>
+		</module>
+		<module>
+			<addressStreet>Pça. Adolfo Ventas, 6 2º-2ª</addressStreet>
+			<addressCity>Amposta</addressCity>
+			<addressPostCode>43870</addressPostCode>
+			<phone>+34 977705400</phone>
+			<mobile>+34 670687259</mobile>
+			<email>jlguerrerotor@gmail.com</email>
+			<homepage/>
+		</module>
+		<module>
+			<company>MRC</company>
+		</module>
+	</employee>
+</employees>

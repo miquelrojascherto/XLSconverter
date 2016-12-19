@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<families xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/">
+   <familia>
+      <Table aid:table="table" aid:trows="1" aid:tcols="1" aid5:tablestyle="enzymTable">
+         <Celda aid:table="cell" aid:pstyle="nfami" aid5:cellstyle="fami_cell" aid:theader="" aid:crows="1" aid:ccols="1" align="left" aid:ccolwidth="523.3">ENZYME</Celda>
+      </Table>
+      <Table aid:table="table" aid:trows="9" aid:tcols="6" aid5:tablestyle="qcaTable">
+         <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.71456692931508" align="right">Product</Celda>
+         <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="94.42716535396818">Reference</Celda>
+         <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="101">Format</Celda>
+         <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="122">Bar Code</Celda>
+         <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="60">Storage</Celda>
+         <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="60">Form</Celda>
+         <Celda aid:table="cell" aid:pstyle="prod_par" aid:crows="1" aid:ccols="4" aid5:cellstyle="prod_cell">ACID PHOSPHATASE-a</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="4" aid:ccols="1" aid5:cellstyle="imag_cell">
+            <Image href="file:///Links/g700.png" />
+         </Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="4" aid:ccols="1" aid5:cellstyle="imag_cell">
+            <Image href="file:///Links/g1634.png" />
+         </Celda>
+         <Celda aid:table="cell" aid:pstyle="tec_par" aid:crows="1" aid:ccols="4" aid5:cellstyle="prod_cell">Hillmann method-a</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell" />
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell">990016</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell">18 x 2 ml</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell">18430155006234</Celda>
+         <Celda aid:table="cell" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell" />
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">990022</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">10 x 10 ml</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">18430155000379</Celda>
+         <Celda aid:table="cell" aid:pstyle="prod_par" aid:crows="1" aid:ccols="4" aid5:cellstyle="prod2_cell">ACID PHOSPHATASE-a</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="4" aid:ccols="1" aid5:cellstyle="imag_cell">
+            <Image href="file:///Links/g700.png" />
+         </Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="4" aid:ccols="1" aid5:cellstyle="imag_cell">
+            <Image href="file:///Links/g1634.png" />
+         </Celda>
+         <Celda aid:table="cell" aid:pstyle="tec_par" aid:crows="1" aid:ccols="4" aid5:cellstyle="prod_cell">Hillmann method-a</Celda>
+         <Celda aid:table="cell" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell" />
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell">990016</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell">18 x 2 ml</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="ref_cell">18430155006234</Celda>
+         <Celda aid:table="cell" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell" />
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">990022</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">10 x 10 ml</Celda>
+         <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">18430155000379</Celda>
+      </Table>
+   </familia>
+</families>
+
+

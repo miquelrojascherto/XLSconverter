@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<families xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/">
+  <familia>
+    <Table aid:table="table" aid:trows="1" aid:tcols="1" aid5:tablestyle="enzymTable">
+      <Celda aid:table="cell" aid:pstyle="nfami" aid5:cellstyle="fami_cell" aid:theader="" aid:crows="1" aid:ccols="1" align="left" aid:ccolwidth="523.3">ENDOSPORE STAINING</Celda>
+    </Table>
+    <Table aid:table="table" aid:trows="4" aid:tcols="6" aid5:tablestyle="qcaTable">
+      <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.71456692931508" align="right">Product</Celda>
+      <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="94.42716535396818">Reference</Celda>
+      <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="101">Format</Celda>
+      <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="122">Bar Code</Celda>
+      <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="60">Storage</Celda>
+      <Celda aid:table="cell" aid:pstyle="head_cell" aid5:cellstyle="head_cell" aid:theader="" aid:crows="1" aid:ccols="1" aid:ccolwidth="60">Form</Celda>
+      <Celda aid:table="cell" aid:pstyle="prod_par" aid:crows="1" aid:ccols="4" aid5:cellstyle="prod_cell">MALACHITE GREEN</Celda>
+      <Celda aid:table="cell" aid:pstyle="comp" aid:crows="3" aid:ccols="1" aid5:cellstyle="imag_cell">
+        <Image href="file:///Links/g700.jpg"/>
+      </Celda>
+      <Celda aid:table="cell" aid:pstyle="comp" aid:crows="3" aid:ccols="1" aid5:cellstyle="imag_cell">
+        <Image href="file:///Links/g1634.jpg"/>
+      </Celda>
+      <Celda aid:table="cell" aid:pstyle="tec_par" aid:crows="1" aid:ccols="4" aid5:cellstyle="prod_cell">Detection of the germination of bacterial spores from vegetative cells.</Celda>
+      <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell"/>
+      <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">998989</Celda>
+      <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">2 x 100 ml</Celda>
+      <Celda aid:table="cell" aid:pstyle="comp" aid:crows="1" aid:ccols="1" aid5:cellstyle="refF_cell">18430155007958</Celda>
+    </Table>
+  </familia>
+</families>

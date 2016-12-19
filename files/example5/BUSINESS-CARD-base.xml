@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<employees>
-	<employee>
-		<module>
+<!-- XML per generar els moduls -->
+<root>
+	<module>
+		<employee>
 			<name>name</name>
 			<job>job</job>
-		</module>
-		<module>
+		</employee>
+	</module>
+	<module>
+		<employee>
 			<addressStreet>addressStreet</addressStreet>
 			<addressCity>addressCity</addressCity>
 			<addressPostCode>addressPostCode</addressPostCode>
@@ -13,9 +16,12 @@
 			<mobile>mobile</mobile>
 			<email>email</email>
 			<homepage>homepage</homepage>
-		</module>
-		<module>
+		</employee>
+	</module>
+	<module>
+		<employee>
+			<image />
 			<company>company</company>
-		</module>
-	</employee>
-</employees>
+		</employee>
+	</module>
+</root>
